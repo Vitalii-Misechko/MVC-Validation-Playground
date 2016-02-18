@@ -1,2 +1,2 @@
 # MVC-Validation-Playground
-MVC valtidation playground
+MVC valtidation playground.
