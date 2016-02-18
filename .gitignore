@@ -1,0 +1,6 @@
+/Validation-Playground/Validation-Playground/bin/*.dll
+/Validation-Playground/*.suo
+/Validation-Playground/Validation-Playground/bin
+/Validation-Playground/packages
+*.dll
+/Validation-Playground/Validation-Playground/obj
